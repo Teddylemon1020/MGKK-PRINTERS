@@ -1,0 +1,19 @@
+Ender 3 v2 #01
+Manual: (common maintainance for printing)
+1. connect orange pi to the router
+2. identify the ip address
+3. insert in orca slicer
+4. level bed using command for klipper SCREWS_TILT_CALCULATE
+
+Status:(Modified)
+Modifications
+- hotend using bambu clone
+- bmg clone for extruder
+- increase amps in g code file under printer profile
+- big tree tech mother board
+- magnetic pei sheet
+
+Current problem (as of september 7, 2024)
+- thermistor problem (solution: replace the hotend with old model)
+
+
