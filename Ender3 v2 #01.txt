@@ -4,6 +4,7 @@ Manual: (common maintainance for printing)
 2. identify the ip address
 3. insert in orca slicer
 4. level bed using command for klipper SCREWS_TILT_CALCULATE
+5. further reference https://www.creality.com/pages/download-ender-3-v2?spm=..page_1934481.products_display_1.1
 
 Status:(Modified)
 Modifications
