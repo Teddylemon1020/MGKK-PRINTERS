@@ -12,8 +12,15 @@ Modifications
 - increase amps in g code file under printer profile
 - big tree tech mother board
 - magnetic pei sheet
+- fuse was replaced 
+- upgraded fan using 5501 sunon fan 
+
 
 Current problem (as of september 7, 2024)
 - thermistor problem (solution: replace the hotend with old model)
+
+Notes:
+1. fuse is a 10amp 250volt fast blow fuse
+2. 240 volts in 24 volts out in the psu 
 
 
