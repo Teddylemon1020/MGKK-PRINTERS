@@ -15,7 +15,7 @@ Modifications
 - magnetic pei sheet
 - fuse was replaced 
 - upgraded fan using 5501 sunon fan 
-
+- dual z 
 
 Current problem (as of september 7, 2024)
 - thermistor problem (solution: replace the hotend with old model)
